@@ -15,5 +15,19 @@ git Git is a version control system.
 Git is free software.
 
 文件放到/Users/michael/learngit目录下。
-
+A 加进去
 $ git add readme.txt
+
+
+B 提交：
+$ git commit -m "wrote a readme file"
+简单解释一下git commit命令，-m后面输入的是本次提交的说明，可以输入任意内容，当然最好是有意义的，这样你就能从历史记录里方便地找到改动记录。
+
+
+初始化一个Git仓库，使用git init命令。
+
+添加文件到Git仓库，分两步：
+
+第一步，使用命令git add <file>，注意，可反复多次使用，添加多个文件；
+
+第二步，使用命令git commit，完成。
