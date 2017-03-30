@@ -11,8 +11,8 @@ $git init
 
 4.将文本加入到版本库中：建立一个文本，命名为readme.txt
 
-git Git is a version control system.
-Git is free software.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
 
 文件放到/Users/michael/learngit目录下。
 A 加进去
