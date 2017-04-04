@@ -49,4 +49,7 @@ $ git diff readme.txt
 
 要重返未来，用git reflog查看命令历史，以便确定要回到未来的哪个版本。
 Creating a new branch is quick and simple.
->>> featurel
+>>> featurel 
+new row
+!wq
+
