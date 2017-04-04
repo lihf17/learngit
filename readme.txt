@@ -51,5 +51,3 @@ $ git diff readme.txt
 Creating a new branch is quick and simple.
 >>> featurel 
 new row
-!wq
-
